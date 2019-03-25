@@ -1,0 +1,24 @@
+{
+  "name": "@leismore/gen_token",
+  "version": "1.0.0",
+  "description": "The Cryptographical Token Generator (CLI). This program generate URL friendly (BASE58) pseudo-random token.",
+  "main": "gen-token.js",
+  "dependencies": {
+    "uid-generator": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Token",
+    "Generator",
+    "CLI",
+    "Command-Line",
+    "Interface",
+    "Node.js",
+    "Cryptography"
+  ],
+  "author": "Winfred K. Qin",
+  "license": "GPL-3.0-only"
+}
